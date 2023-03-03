@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.regex.Pattern;
 
 
-public class EmployManagementSystem extends MainMenu {
+public class EmployeeManagementSystem extends MainMenu {
     public static void main(String[] args) throws Exception {
         try {
             MainMenu menu = new MainMenu();
